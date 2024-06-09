@@ -1,0 +1,14 @@
+C:\Users\vkalg\Desktop\лабы\1_3_lab\bin\Debug\net6.0\MatrixOperations.exe
+C:\Users\vkalg\Desktop\лабы\1_3_lab\bin\Debug\net6.0\MatrixOperations.deps.json
+C:\Users\vkalg\Desktop\лабы\1_3_lab\bin\Debug\net6.0\MatrixOperations.runtimeconfig.json
+C:\Users\vkalg\Desktop\лабы\1_3_lab\bin\Debug\net6.0\MatrixOperations.dll
+C:\Users\vkalg\Desktop\лабы\1_3_lab\bin\Debug\net6.0\MatrixOperations.pdb
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\MatrixOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\MatrixOperations.AssemblyInfoInputs.cache
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\MatrixOperations.AssemblyInfo.cs
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\MatrixOperations.csproj.CoreCompileInputs.cache
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\MatrixOperations.dll
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\refint\MatrixOperations.dll
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\MatrixOperations.pdb
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\MatrixOperations.genruntimeconfig.cache
+C:\Users\vkalg\Desktop\лабы\1_3_lab\obj\Debug\net6.0\ref\MatrixOperations.dll
